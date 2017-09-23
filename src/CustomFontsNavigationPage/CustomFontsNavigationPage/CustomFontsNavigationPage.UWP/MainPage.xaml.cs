@@ -1,0 +1,12 @@
+﻿namespace CustomFontsNavigationPage.UWP
+{
+    public sealed partial class MainPage
+    {
+        public MainPage()
+        {
+            this.InitializeComponent();
+
+            LoadApplication(new CustomFontsNavigationPage.App());
+        }
+    }
+}
