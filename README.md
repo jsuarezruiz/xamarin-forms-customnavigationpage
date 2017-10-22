@@ -14,6 +14,10 @@ Samples that show how to customize the **NavigationPage** in a Xamarin.Forms App
 
 <img src="images/custom-logo-android.png" Width="210" /> <img src="images/custom-logo-ios.png" Width="210" /> <img src="images/custom-logo-uwp.png" Width="210" />
 
+## Gradients
+
+[Custom Navigation Page Gradient](https://github.com/wilsonvargas/GradientNavigationToolbarXamarinForms).
+
 ## Setup
 
 Download or clone the repository. There are different solutions.
